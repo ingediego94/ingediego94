@@ -1,6 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy un ingeniero desarrollador de software con una fuerte vocación autodidacta. Me apasiona crear soluciones tecnológicas escalables que aporten verdadero valor. Me impulsa una mentalidad de aprendizaje constante, con el objetivo claro de destacar en el mundo tech, no solo como desarrollador, sino también como futuro líder de equipos y proyectos.<br><br>🛠️ Stack principal:<br>JavaScript | HTML | CSS | React | Python | C# .NET | PostgreSQL | MySQL | Linux<br><br>🗺️ Herramientas GIS:<br>ArcGIS | QGIS<br>
-
+¡Hola! Soy un ingeniero desarrollador de software con una fuerte vocación autodidacta. Me apasiona crear soluciones tecnológicas escalables que aporten verdadero valor. 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/d.vallejo892) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inge.diego94@gmail.com) 
